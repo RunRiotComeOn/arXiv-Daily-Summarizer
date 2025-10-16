@@ -2,7 +2,7 @@
 
 🤖 每天自动从 arXiv 获取你指定领域的最新论文，使用 DeepSeek AI 生成中文/英文/双语摘要，并推送到你的邮箱。
 
-中文文档 | [English](./README.md)
+中文文档 | [English](./README_EN.md)
 
 ## ✨ 功能特点
 
